@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(90deg,#101010,#322d2c,#181618);
+    height: 1000px;
+
+}
+
+#tg-btn{
+    background-color: aliceblue;
+}
+.navb-ar{
+    margin-left: 100px;
+}
+.pe-5{
+    margin-left: 29rem;
+}
+#profile{
+    height: 76%;
+    width:84%;
+}
+.text-co
+{
+    background-image: linear-gradient(to right,#0d97f5,#7575d3,#c61dc6);
+    background-clip: text;
+    color: transparent;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#btna{
+    text-decoration: none;
+}
+.nav-link{
+    font-size: larger;
+    background-image: linear-gradient(to right,#7f1414,#7575d3,#c61dc6);
+    background-clip: text;
+    color: transparent;
+}
+.card{
+    margin-top: 50px;
+    background-image: linear-gradient(45deg, #4a4949, #342f2f);
+    height: 25em;
+    color: white;
+}
+
+.card-img-top{
+    height: 200px;
+}
+.col-md-4{
+    padding-left: 5%;
+}
+.row{
+    padding-left: 4rem;
+}
+label{
+    color: white;
+}
+.col-md-6{
+    float: left;
+    padding-left: 1em;
+}
+#btn{
+    margin-left: 1em;
+}
+.project-link{
+    text-decoration: none;
+}
